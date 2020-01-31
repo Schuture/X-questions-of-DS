@@ -1,0 +1,1 @@
+将cifar-10数据集在此解压，得到cifar-10-batches-py文件夹
